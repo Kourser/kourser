@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hoodgail-benjamin
+- 👀 I’m interested in `Programing`
+- 🌱 I’m currently learning `Maching learning, better timing attack algorithm and webgl`
+- 💞️ I’m looking to collaborate on `Anything related to typescript or javascript. (mostly nodejs)`
+- 📫 How to reach me `No!`
